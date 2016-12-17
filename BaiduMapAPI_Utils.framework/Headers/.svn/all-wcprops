@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jianzhong/!svn/ver/276/ios2016/BaiduMapAPI_Utils.framework/Headers
+END
+BMKFavPoiManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jianzhong/!svn/ver/276/ios2016/BaiduMapAPI_Utils.framework/Headers/BMKFavPoiManager.h
+END
+BMKNavigation.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jianzhong/!svn/ver/276/ios2016/BaiduMapAPI_Utils.framework/Headers/BMKNavigation.h
+END
+BMKFavPoiInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jianzhong/!svn/ver/276/ios2016/BaiduMapAPI_Utils.framework/Headers/BMKFavPoiInfo.h
+END
+BMKOpenPanorama.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jianzhong/!svn/ver/276/ios2016/BaiduMapAPI_Utils.framework/Headers/BMKOpenPanorama.h
+END
+BMKOpenRoute.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jianzhong/!svn/ver/276/ios2016/BaiduMapAPI_Utils.framework/Headers/BMKOpenRoute.h
+END
+BMKOpenPoiOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jianzhong/!svn/ver/276/ios2016/BaiduMapAPI_Utils.framework/Headers/BMKOpenPoiOption.h
+END
+BMKUtilsComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jianzhong/!svn/ver/276/ios2016/BaiduMapAPI_Utils.framework/Headers/BMKUtilsComponent.h
+END
+BMKUtilsVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jianzhong/!svn/ver/276/ios2016/BaiduMapAPI_Utils.framework/Headers/BMKUtilsVersion.h
+END
+BMKOpenPoi.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jianzhong/!svn/ver/276/ios2016/BaiduMapAPI_Utils.framework/Headers/BMKOpenPoi.h
+END
+BMKOpenRouteOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jianzhong/!svn/ver/276/ios2016/BaiduMapAPI_Utils.framework/Headers/BMKOpenRouteOption.h
+END
+BMKOpenOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jianzhong/!svn/ver/276/ios2016/BaiduMapAPI_Utils.framework/Headers/BMKOpenOption.h
+END
+BMKGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jianzhong/!svn/ver/276/ios2016/BaiduMapAPI_Utils.framework/Headers/BMKGeometry.h
+END

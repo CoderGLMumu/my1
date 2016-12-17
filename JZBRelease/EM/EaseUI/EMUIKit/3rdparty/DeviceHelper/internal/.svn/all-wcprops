@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/internal
+END
+DemoErrorCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/internal/DemoErrorCode.h
+END
+EMCDDeviceManager+Remind.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/internal/EMCDDeviceManager+Remind.h
+END
+EMCDDeviceManager+Media.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/internal/EMCDDeviceManager+Media.h
+END
+EMAudioPlayerUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/internal/EMAudioPlayerUtil.h
+END
+EMCDDeviceManager+Remind.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/internal/EMCDDeviceManager+Remind.m
+END
+EMCDDeviceManager+Media.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/internal/EMCDDeviceManager+Media.m
+END
+EMAudioPlayerUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/internal/EMAudioPlayerUtil.m
+END
+EMAudioRecorderUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/internal/EMAudioRecorderUtil.h
+END
+EMAudioRecorderUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/internal/EMAudioRecorderUtil.m
+END
+EMCDDeviceManager+ProximitySensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/internal/EMCDDeviceManager+ProximitySensor.h
+END
+EMCDDeviceManagerBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/internal/EMCDDeviceManagerBase.h
+END
+EMCDDeviceManager+ProximitySensor.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/internal/EMCDDeviceManager+ProximitySensor.m
+END
+EMCDDeviceManager+Microphone.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/internal/EMCDDeviceManager+Microphone.h
+END
+EMCDDeviceManagerBase.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/internal/EMCDDeviceManagerBase.m
+END
+EMCDDeviceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/internal/EMCDDeviceManager.h
+END
+EMCDDeviceManager+Microphone.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/internal/EMCDDeviceManager+Microphone.m
+END

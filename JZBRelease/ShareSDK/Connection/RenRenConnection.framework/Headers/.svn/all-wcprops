@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/RenRenConnection.framework/Headers
+END
+ISSRenRenApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/RenRenConnection.framework/Headers/ISSRenRenApp.h
+END
+RenRenConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/RenRenConnection.framework/Headers/RenRenConnection.h
+END
+SSRenRenCredential.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/RenRenConnection.framework/Headers/SSRenRenCredential.h
+END
+SSRenRenUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/RenRenConnection.framework/Headers/SSRenRenUser.h
+END
+SSRenRenErrorInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/RenRenConnection.framework/Headers/SSRenRenErrorInfo.h
+END
+SSRenRenPost.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/RenRenConnection.framework/Headers/SSRenRenPost.h
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jianzhong/!svn/ver/2157/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller
+END
+NewBusinessListVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jianzhong/!svn/ver/1524/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller/NewBusinessListVC.h
+END
+ApplyGruopNoticeVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jianzhong/!svn/ver/215/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller/ApplyGruopNoticeVC.h
+END
+NewReferenceListVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jianzhong/!svn/ver/1742/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller/NewReferenceListVC.h
+END
+NewCourseListVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jianzhong/!svn/ver/2075/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller/NewCourseListVC.h
+END
+NewBusinessListVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jianzhong/!svn/ver/2157/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller/NewBusinessListVC.m
+END
+ApplyGruopNoticeVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jianzhong/!svn/ver/1576/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller/ApplyGruopNoticeVC.m
+END
+NewReferenceListVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jianzhong/!svn/ver/1742/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller/NewReferenceListVC.m
+END
+ApplyFriendNoticeVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jianzhong/!svn/ver/202/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller/ApplyFriendNoticeVC.xib
+END
+NewCourseListVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jianzhong/!svn/ver/2157/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller/NewCourseListVC.m
+END
+NewQuestionListVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jianzhong/!svn/ver/1589/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller/NewQuestionListVC.h
+END
+ApplyFriendNoticeVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jianzhong/!svn/ver/202/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller/ApplyFriendNoticeVC.h
+END
+SocialViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/jianzhong/!svn/ver/215/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller/SocialViewController.h
+END
+NewQuestionListVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jianzhong/!svn/ver/2157/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller/NewQuestionListVC.m
+END
+ApplyFriendNoticeVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/jianzhong/!svn/ver/1816/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller/ApplyFriendNoticeVC.m
+END
+BanSpeakVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jianzhong/!svn/ver/273/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller/BanSpeakVC.h
+END
+BanSpeakVC.storyboard
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jianzhong/!svn/ver/273/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller/BanSpeakVC.storyboard
+END
+SocialViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jianzhong/!svn/ver/1815/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller/SocialViewController.m
+END
+NewReferrerVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jianzhong/!svn/ver/2011/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller/NewReferrerVC.h
+END
+BanSpeakVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jianzhong/!svn/ver/1576/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller/BanSpeakVC.m
+END
+NewReferrerVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jianzhong/!svn/ver/2018/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller/NewReferrerVC.m
+END
+ApplyGruopNoticeVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/jianzhong/!svn/ver/215/ios2016/JZBRelease/%E6%88%91%E7%9A%84/1Social(%E7%A4%BE%E4%BA%A4)/Controller/ApplyGruopNoticeVC.xib
+END

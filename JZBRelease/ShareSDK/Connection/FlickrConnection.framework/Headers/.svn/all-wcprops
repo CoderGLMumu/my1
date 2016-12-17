@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/FlickrConnection.framework/Headers
+END
+FlickrConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/FlickrConnection.framework/Headers/FlickrConnection.h
+END
+ISSFlickrApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/FlickrConnection.framework/Headers/ISSFlickrApp.h
+END
+SSFlickrPhoto.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/FlickrConnection.framework/Headers/SSFlickrPhoto.h
+END
+SSFlickrCredential.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/FlickrConnection.framework/Headers/SSFlickrCredential.h
+END
+SSFlickrUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/FlickrConnection.framework/Headers/SSFlickrUser.h
+END
+SSFlickrErrorInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/FlickrConnection.framework/Headers/SSFlickrErrorInfo.h
+END

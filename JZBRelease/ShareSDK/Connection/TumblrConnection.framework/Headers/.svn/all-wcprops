@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/TumblrConnection.framework/Headers
+END
+SSTumblrUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/TumblrConnection.framework/Headers/SSTumblrUser.h
+END
+SSTumblrErrorInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/TumblrConnection.framework/Headers/SSTumblrErrorInfo.h
+END
+SSTumblrPost.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/TumblrConnection.framework/Headers/SSTumblrPost.h
+END
+ISSTumblrApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/TumblrConnection.framework/Headers/ISSTumblrApp.h
+END
+TumblrConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/TumblrConnection.framework/Headers/TumblrConnection.h
+END
+SSTumblrCredential.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/TumblrConnection.framework/Headers/SSTumblrCredential.h
+END

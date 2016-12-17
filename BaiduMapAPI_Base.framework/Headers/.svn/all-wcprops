@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jianzhong/!svn/ver/276/ios2016/BaiduMapAPI_Base.framework/Headers
+END
+BMKTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jianzhong/!svn/ver/276/ios2016/BaiduMapAPI_Base.framework/Headers/BMKTypes.h
+END
+BMKVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jianzhong/!svn/ver/276/ios2016/BaiduMapAPI_Base.framework/Headers/BMKVersion.h
+END
+BMKUserLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jianzhong/!svn/ver/276/ios2016/BaiduMapAPI_Base.framework/Headers/BMKUserLocation.h
+END
+BMKGeneralDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jianzhong/!svn/ver/276/ios2016/BaiduMapAPI_Base.framework/Headers/BMKGeneralDelegate.h
+END
+BMKMapManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jianzhong/!svn/ver/276/ios2016/BaiduMapAPI_Base.framework/Headers/BMKMapManager.h
+END
+BMKBaseComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jianzhong/!svn/ver/276/ios2016/BaiduMapAPI_Base.framework/Headers/BMKBaseComponent.h
+END

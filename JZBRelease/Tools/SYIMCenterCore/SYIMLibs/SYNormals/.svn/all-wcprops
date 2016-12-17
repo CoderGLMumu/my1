@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jianzhong/!svn/ver/2090/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYNormals
+END
+SYMainHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYNormals/SYMainHeader.h
+END
+SoftwareUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYNormals/SoftwareUser.h
+END
+SYSystemManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYNormals/SYSystemManager.h
+END
+SoftwareUser.mm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYNormals/SoftwareUser.mm
+END
+SYNormalAndNotificationMsgHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYNormals/SYNormalAndNotificationMsgHeader.h
+END
+Reachability.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYNormals/Reachability.h
+END
+SYSystemManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYNormals/SYSystemManager.m
+END
+Reachability2.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jianzhong/!svn/ver/2090/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYNormals/Reachability2.h
+END
+Reachability.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYNormals/Reachability.m
+END
+Reachability2.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jianzhong/!svn/ver/2090/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYNormals/Reachability2.m
+END
+SYNormalDefineHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYNormals/SYNormalDefineHeader.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/DropboxConnection.framework/Headers
+END
+SSDropboxErrorInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/DropboxConnection.framework/Headers/SSDropboxErrorInfo.h
+END
+SSDropboxQuotaInfoReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/DropboxConnection.framework/Headers/SSDropboxQuotaInfoReader.h
+END
+DropboxConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/DropboxConnection.framework/Headers/DropboxConnection.h
+END
+ISSDropboxApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/DropboxConnection.framework/Headers/ISSDropboxApp.h
+END
+SSDropboxCredential.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/DropboxConnection.framework/Headers/SSDropboxCredential.h
+END
+SSDropboxShareContentEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/DropboxConnection.framework/Headers/SSDropboxShareContentEntity.h
+END
+SSDropboxUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/DropboxConnection.framework/Headers/SSDropboxUser.h
+END
+SSDropboxFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/DropboxConnection.framework/Headers/SSDropboxFile.h
+END
+SSDropboxUserReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/DropboxConnection.framework/Headers/SSDropboxUserReader.h
+END
+SSDropboxFileReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/DropboxConnection.framework/Headers/SSDropboxFileReader.h
+END

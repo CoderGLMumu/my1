@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/WeChatConnection.framework/Headers
+END
+ISSWeChatApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/WeChatConnection.framework/Headers/ISSWeChatApp.h
+END
+WeChatConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/WeChatConnection.framework/Headers/WeChatConnection.h
+END
+SSWeChatTypeDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/WeChatConnection.framework/Headers/SSWeChatTypeDef.h
+END
+SSWeChatErrorInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/WeChatConnection.framework/Headers/SSWeChatErrorInfo.h
+END

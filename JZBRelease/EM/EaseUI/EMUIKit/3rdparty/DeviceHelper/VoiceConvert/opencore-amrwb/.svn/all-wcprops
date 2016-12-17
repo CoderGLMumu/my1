@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jianzhong/!svn/ver/187/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/VoiceConvert/opencore-amrwb
+END
+dec_if.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/VoiceConvert/opencore-amrwb/dec_if.h
+END
+if_rom.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/VoiceConvert/opencore-amrwb/if_rom.h
+END
+libopencore-amrwb.a
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/jianzhong/!svn/ver/187/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/VoiceConvert/opencore-amrwb/libopencore-amrwb.a
+END

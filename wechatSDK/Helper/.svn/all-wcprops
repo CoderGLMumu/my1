@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/jianzhong/!svn/ver/664/ios2016/wechatSDK/Helper
+END
+Constant.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/jianzhong/!svn/ver/664/ios2016/wechatSDK/Helper/Constant.h
+END
+WXMediaMessage+messageConstruct.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jianzhong/!svn/ver/664/ios2016/wechatSDK/Helper/WXMediaMessage+messageConstruct.m
+END
+GetMessageFromWXResp+responseWithTextOrMediaMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jianzhong/!svn/ver/664/ios2016/wechatSDK/Helper/GetMessageFromWXResp+responseWithTextOrMediaMessage.h
+END
+SendMessageToWXReq+requestWithTextOrMediaMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jianzhong/!svn/ver/664/ios2016/wechatSDK/Helper/SendMessageToWXReq+requestWithTextOrMediaMessage.h
+END
+GetMessageFromWXResp+responseWithTextOrMediaMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jianzhong/!svn/ver/664/ios2016/wechatSDK/Helper/GetMessageFromWXResp+responseWithTextOrMediaMessage.m
+END
+SendMessageToWXReq+requestWithTextOrMediaMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jianzhong/!svn/ver/664/ios2016/wechatSDK/Helper/SendMessageToWXReq+requestWithTextOrMediaMessage.m
+END
+WXMediaMessage+messageConstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jianzhong/!svn/ver/664/ios2016/wechatSDK/Helper/WXMediaMessage+messageConstruct.h
+END

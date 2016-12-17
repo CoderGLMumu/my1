@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/KaiXinConnection.framework/Headers
+END
+SSKaiXinErrorInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/KaiXinConnection.framework/Headers/SSKaiXinErrorInfo.h
+END
+ISSKaiXinApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/KaiXinConnection.framework/Headers/ISSKaiXinApp.h
+END
+KaiXinConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/KaiXinConnection.framework/Headers/KaiXinConnection.h
+END
+SSKaiXinCredential.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/KaiXinConnection.framework/Headers/SSKaiXinCredential.h
+END
+SSKaiXinRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/KaiXinConnection.framework/Headers/SSKaiXinRecord.h
+END
+SSKaiXinUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/KaiXinConnection.framework/Headers/SSKaiXinUser.h
+END

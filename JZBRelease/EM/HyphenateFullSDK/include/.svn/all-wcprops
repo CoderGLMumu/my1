@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include
+END
+EMTextMessageBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMTextMessageBody.h
+END
+EMConversation.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMConversation.h
+END
+EMOptions+PrivateDeploy.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMOptions+PrivateDeploy.h
+END
+IEMChatroomManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/IEMChatroomManager.h
+END
+EMCallLocalView.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMCallLocalView.h
+END
+IEMChatManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/IEMChatManager.h
+END
+EMErrorCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMErrorCode.h
+END
+EMClient+Call.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMClient+Call.h
+END
+EMVideoMessageBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMVideoMessageBody.h
+END
+EMPushOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMPushOptions.h
+END
+EMOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMOptions.h
+END
+EMLocationMessageBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMLocationMessageBody.h
+END
+EMChatroomManagerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMChatroomManagerDelegate.h
+END
+EMChatManagerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMChatManagerDelegate.h
+END
+EMGroupOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMGroupOptions.h
+END
+EMClientDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMClientDelegate.h
+END
+EMChatroom.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMChatroom.h
+END
+EMCursorResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMCursorResult.h
+END
+EMClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMClient.h
+END
+EMCallSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMCallSession.h
+END
+IEMCallManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/IEMCallManager.h
+END
+EMSDK.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMSDK.h
+END
+EMContactManagerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMContactManagerDelegate.h
+END
+EMGroupManagerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMGroupManagerDelegate.h
+END
+EMCallRemoteView.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMCallRemoteView.h
+END
+EMMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMMessage.h
+END
+EMCmdMessageBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMCmdMessageBody.h
+END
+EMVoiceMessageBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMVoiceMessageBody.h
+END
+EMError.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMError.h
+END
+EMGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMGroup.h
+END
+IEMContactManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/IEMContactManager.h
+END
+OpenGLView20.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/OpenGLView20.h
+END
+IEMGroupManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/IEMGroupManager.h
+END
+EMCallManagerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMCallManagerDelegate.h
+END
+EMMessageBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMMessageBody.h
+END
+EMFileMessageBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMFileMessageBody.h
+END
+EMSDKFull.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMSDKFull.h
+END
+EMImageMessageBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/HyphenateFullSDK/include/EMImageMessageBody.h
+END

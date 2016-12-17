@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jianzhong/!svn/ver/187/ios2016/JZBRelease/EM/HyphenateFullSDK/lib/3rdparty
+END
+libcrypto.a
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jianzhong/!svn/ver/187/ios2016/JZBRelease/EM/HyphenateFullSDK/lib/3rdparty/libcrypto.a
+END
+libssl.a
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jianzhong/!svn/ver/187/ios2016/JZBRelease/EM/HyphenateFullSDK/lib/3rdparty/libssl.a
+END
+libcurl.a
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jianzhong/!svn/ver/187/ios2016/JZBRelease/EM/HyphenateFullSDK/lib/3rdparty/libcurl.a
+END

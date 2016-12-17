@@ -1,0 +1,174 @@
+//
+//  XBLiveComputerShowVC.m
+//  JZBRelease
+//
+//  Created by Apple on 16/12/8.
+//  Copyright © 2016年 zjapple. All rights reserved.
+//
+
+#import "XBLiveComputerShowVC.h"
+#import "XBLiveMobileVideoShowVC.h"
+#import "AliVcMoiveViewController.h"
+
+@interface XBLiveComputerShowVC ()
+
+@property (strong, nonatomic) TBMoiveViewController* currentView;
+
+/** BG2 */
+@property (nonatomic, weak) UIView *BG2;
+
+/** topPanel */
+@property (nonatomic, weak) UIView *topPanel;
+/** botPanel */
+@property (nonatomic, weak) UIView *botPanel;
+
+@end
+
+@implementation XBLiveComputerShowVC
+
+- (void)viewDidLoad {
+    [super viewDidLoad];
+    
+    TBMoiveViewController* currentView = [[TBMoiveViewController alloc] init];
+    
+//    if ([self.liveitem.type isEqualToString:@"2"]) {
+//        currentView.isVoice = YES;
+//    }else if ([self.liveitem.type isEqualToString:@"1"]) {
+//        currentView.clickVideoView = ^{
+//            
+//            GLLog(@"currentView.clickVideoView");
+//            
+//        };
+//    }
+    
+    self.currentView = currentView;
+    
+    NSURL *url = [NSURL URLWithString:self.playUrl];
+    
+    [currentView SetMoiveSource:url];
+    
+    currentView.videoFrame = CGRectMake(0, 20, GLScreenW, GLScreenW* 9 / 16);
+    
+//    __weak typeof(self) weakSelf = self;
+//    currentView.callBack = ^(NSString *timeLabel,VideoActionType type){
+//        weakSelf.liveTimeLabel.text = timeLabel;
+//        if (type == VideoActionTypePreparedPlay) {
+//            if ([weakSelf.liveitem.type isEqualToString:@"2"]) return ;
+//            [weakSelf.noticeview removeFromSuperview];
+//        }
+//    };
+    
+    [self addChildViewController:currentView];
+    [self.view addSubview:currentView.view];
+    currentView.view.userInteractionEnabled = NO;
+
+    UIView *BG2 = [UIView new];
+    BG2.backgroundColor = [UIColor greenColor];
+    [self.view addSubview:BG2];
+    BG2.frame = CGRectMake(0, 150, 150, 150);
+    self.BG2 = BG2;
+    
+    [self topPanel];
+    [self botPanel];
+}
+
+- (UIView *)topPanel
+{
+    if (_topPanel == nil) {
+        UIView *topPanel = [[UIView alloc] init];
+        [self.view addSubview:topPanel];
+        _topPanel = topPanel;
+        
+        topPanel.backgroundColor = [UIColor colorWithRed:0 green:0 blue:0 alpha:0.4];
+        
+        topPanel.frame = CGRectMake(0, 20, GLScreenW, 40);
+        
+        UIButton *tipButton1 = [UIButton buttonWithType:UIButtonTypeCustom];
+        [tipButton1 setImage:[UIImage imageNamed:@"RMzlt_tipIcon"] forState:UIControlStateNormal];
+        [tipButton1 setTitle:@"智囊团" forState:UIControlStateNormal];
+        
+    }
+    return _topPanel;
+}
+
+- (UIView *)botPanel
+{
+    if (_botPanel == nil) {
+        UIView *botPanel = [[UIView alloc] init];
+        [self.view addSubview:botPanel];
+        _botPanel = botPanel;
+        
+        botPanel.backgroundColor = [UIColor colorWithRed:0 green:0 blue:0 alpha:0.4];
+        
+        botPanel.frame = CGRectMake(0, 20 + GLScreenW * 9/16 - 40, GLScreenW, 40);
+        
+    }
+    return _botPanel;
+}
+
+
+
+- (void)viewWillAppear:(BOOL)animated
+{
+    [super viewWillAppear:animated];
+    [self.navigationController setNavigationBarHidden:YES animated:YES];
+}
+
+- (void)dealloc
+{
+    [self.currentView removeFromParentViewController];
+}
+
+- (BOOL)shouldAutorotate
+{
+    return YES;
+}
+
+- (UIInterfaceOrientationMask)supportedInterfaceOrientations
+{
+    return UIInterfaceOrientationMaskAll;
+}
+
+
+#pragma mark - 旋转
+- (void)willRotateToInterfaceOrientation:(UIInterfaceOrientation)toInterfaceOrientation duration:(NSTimeInterval)duration
+{
+    
+//    /** 高林修改了 旋转屏幕后 9：16 view 没有返回按钮 */
+//    if (self.playerVie.isFullScreen == YES) {
+//        // 这里 YES / NO  是反的 是转换前
+//        self.playerVie.panel.backBtn.hidden = NO;
+//    }else {
+//        self.playerVie.panel.backBtn.hidden = NO;
+//    }
+    
+    if (toInterfaceOrientation == UIInterfaceOrientationPortrait) {
+
+        GLLog(@"1111111111111111111")
+        GLLog(@"%@",self.currentView.view)
+        
+        self.currentView.view.frame = CGRectMake(0, 20, GLScreenH, GLScreenH * 9 / 16);
+        
+        self.topPanel.glw_width = GLScreenW;
+        self.botPanel.glw_width = GLScreenW;
+        
+    }else if (toInterfaceOrientation == UIInterfaceOrientationLandscapeRight || toInterfaceOrientation == UIInterfaceOrientationLandscapeLeft) {
+
+        //if use Masonry,Please open this annotation
+        
+        GLLog(@"2222222222222222222222222")
+        GLLog(@"%@",self.currentView.view)
+        
+        self.currentView.view.frame = CGRectMake(0, 0, GLScreenH, GLScreenW);
+        
+        self.topPanel.glw_width = GLScreenH;
+        self.botPanel.glw_width = GLScreenH;
+        
+        self.topPanel.gly_y = GLScreenW - 40;
+        self.topPanel.gly_y = GLScreenW - 40;
+        
+    }
+}
+
+
+@end

@@ -1,0 +1,23 @@
+//
+//  DanmuItem.h
+//  JZBRelease
+//
+//  Created by Apple on 16/12/3.
+//  Copyright © 2016年 zjapple. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+
+@interface DanmuItem : NSObject
+
+/** userName */
+@property (nonatomic, strong) NSString *userName;
+/** content */
+@property (nonatomic, strong) NSString *content;
+/** fisrtName */
+@property (nonatomic, strong) NSString *fisrtName;
+
+/** isfisrtLabel */
+@property (nonatomic, assign) BOOL isfisrtLabel;
+
+@end

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/GooglePlusConnection.framework/Headers
+END
+SSGooglePlusUrlReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/GooglePlusConnection.framework/Headers/SSGooglePlusUrlReader.h
+END
+SSGooglePlusOrganizationReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/GooglePlusConnection.framework/Headers/SSGooglePlusOrganizationReader.h
+END
+ISSGooglePlusApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/GooglePlusConnection.framework/Headers/ISSGooglePlusApp.h
+END
+GooglePlusConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/GooglePlusConnection.framework/Headers/GooglePlusConnection.h
+END
+SSGooglePlusShareContentEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/GooglePlusConnection.framework/Headers/SSGooglePlusShareContentEntity.h
+END
+SSGooglePlusPlaceLivedReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/GooglePlusConnection.framework/Headers/SSGooglePlusPlaceLivedReader.h
+END
+SSGooglePlusAgeRangeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/GooglePlusConnection.framework/Headers/SSGooglePlusAgeRangeReader.h
+END
+SSGooglePlusCoverReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/GooglePlusConnection.framework/Headers/SSGooglePlusCoverReader.h
+END
+SSGooglePlusUserReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/GooglePlusConnection.framework/Headers/SSGooglePlusUserReader.h
+END
+SSGooglePlusNameReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/GooglePlusConnection.framework/Headers/SSGooglePlusNameReader.h
+END
+SSGooglePlusImageReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/GooglePlusConnection.framework/Headers/SSGooglePlusImageReader.h
+END
+SSGooglePlusErrorInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/GooglePlusConnection.framework/Headers/SSGooglePlusErrorInfo.h
+END
+SSGooglePlusEmailReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/GooglePlusConnection.framework/Headers/SSGooglePlusEmailReader.h
+END
+SSGooglePlusCredential.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/GooglePlusConnection.framework/Headers/SSGooglePlusCredential.h
+END
+SSGooglePlusCoverPhotoReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/GooglePlusConnection.framework/Headers/SSGooglePlusCoverPhotoReader.h
+END
+SSGooglePlusCoverInfoReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/GooglePlusConnection.framework/Headers/SSGooglePlusCoverInfoReader.h
+END
+SSGooglePlusShareInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/GooglePlusConnection.framework/Headers/SSGooglePlusShareInfo.h
+END
+SSGooglePlusUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/GooglePlusConnection.framework/Headers/SSGooglePlusUser.h
+END

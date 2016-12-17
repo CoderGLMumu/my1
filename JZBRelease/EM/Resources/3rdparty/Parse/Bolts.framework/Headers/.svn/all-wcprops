@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/Resources/3rdparty/Parse/Bolts.framework/Headers
+END
+BoltsVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/Resources/3rdparty/Parse/Bolts.framework/Headers/BoltsVersion.h
+END
+BFTask.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/Resources/3rdparty/Parse/Bolts.framework/Headers/BFTask.h
+END
+BFURL.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/Resources/3rdparty/Parse/Bolts.framework/Headers/BFURL.h
+END
+BFAppLinkTarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/Resources/3rdparty/Parse/Bolts.framework/Headers/BFAppLinkTarget.h
+END
+BFAppLinkResolving.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/Resources/3rdparty/Parse/Bolts.framework/Headers/BFAppLinkResolving.h
+END
+BFAppLinkReturnToRefererView.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/Resources/3rdparty/Parse/Bolts.framework/Headers/BFAppLinkReturnToRefererView.h
+END
+BFMeasurementEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/Resources/3rdparty/Parse/Bolts.framework/Headers/BFMeasurementEvent.h
+END
+BFWebViewAppLinkResolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/Resources/3rdparty/Parse/Bolts.framework/Headers/BFWebViewAppLinkResolver.h
+END
+Bolts.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/Resources/3rdparty/Parse/Bolts.framework/Headers/Bolts.h
+END
+BFTaskCompletionSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/Resources/3rdparty/Parse/Bolts.framework/Headers/BFTaskCompletionSource.h
+END
+BFAppLink.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/Resources/3rdparty/Parse/Bolts.framework/Headers/BFAppLink.h
+END
+BFAppLinkNavigation.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/Resources/3rdparty/Parse/Bolts.framework/Headers/BFAppLinkNavigation.h
+END
+BFExecutor.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/Resources/3rdparty/Parse/Bolts.framework/Headers/BFExecutor.h
+END
+BFAppLinkReturnToRefererController.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/Resources/3rdparty/Parse/Bolts.framework/Headers/BFAppLinkReturnToRefererController.h
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jianzhong/!svn/ver/2090/ios2016/JZBRelease/Tools/%E7%BD%91%E7%BB%9C%E5%88%A4%E6%96%AD/SystemConfiguration.framework/Headers
+END
+SCDynamicStoreCopyDHCPInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/jianzhong/!svn/ver/2090/ios2016/JZBRelease/Tools/%E7%BD%91%E7%BB%9C%E5%88%A4%E6%96%AD/SystemConfiguration.framework/Headers/SCDynamicStoreCopyDHCPInfo.h
+END
+SCNetworkConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/jianzhong/!svn/ver/2090/ios2016/JZBRelease/Tools/%E7%BD%91%E7%BB%9C%E5%88%A4%E6%96%AD/SystemConfiguration.framework/Headers/SCNetworkConnection.h
+END
+DHCPClientPreferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/jianzhong/!svn/ver/2090/ios2016/JZBRelease/Tools/%E7%BD%91%E7%BB%9C%E5%88%A4%E6%96%AD/SystemConfiguration.framework/Headers/DHCPClientPreferences.h
+END
+SCNetworkReachability.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/jianzhong/!svn/ver/2090/ios2016/JZBRelease/Tools/%E7%BD%91%E7%BB%9C%E5%88%A4%E6%96%AD/SystemConfiguration.framework/Headers/SCNetworkReachability.h
+END
+SCDynamicStoreKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/jianzhong/!svn/ver/2090/ios2016/JZBRelease/Tools/%E7%BD%91%E7%BB%9C%E5%88%A4%E6%96%AD/SystemConfiguration.framework/Headers/SCDynamicStoreKey.h
+END
+SCPreferencesPath.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/jianzhong/!svn/ver/2090/ios2016/JZBRelease/Tools/%E7%BD%91%E7%BB%9C%E5%88%A4%E6%96%AD/SystemConfiguration.framework/Headers/SCPreferencesPath.h
+END
+CaptiveNetwork.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/jianzhong/!svn/ver/2090/ios2016/JZBRelease/Tools/%E7%BD%91%E7%BB%9C%E5%88%A4%E6%96%AD/SystemConfiguration.framework/Headers/CaptiveNetwork.h
+END
+SCNetworkConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/jianzhong/!svn/ver/2090/ios2016/JZBRelease/Tools/%E7%BD%91%E7%BB%9C%E5%88%A4%E6%96%AD/SystemConfiguration.framework/Headers/SCNetworkConfiguration.h
+END
+SCPreferencesSetSpecific.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/jianzhong/!svn/ver/2090/ios2016/JZBRelease/Tools/%E7%BD%91%E7%BB%9C%E5%88%A4%E6%96%AD/SystemConfiguration.framework/Headers/SCPreferencesSetSpecific.h
+END
+SystemConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/jianzhong/!svn/ver/2090/ios2016/JZBRelease/Tools/%E7%BD%91%E7%BB%9C%E5%88%A4%E6%96%AD/SystemConfiguration.framework/Headers/SystemConfiguration.h
+END
+SCNetwork.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/jianzhong/!svn/ver/2090/ios2016/JZBRelease/Tools/%E7%BD%91%E7%BB%9C%E5%88%A4%E6%96%AD/SystemConfiguration.framework/Headers/SCNetwork.h
+END
+SCSchemaDefinitions.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/jianzhong/!svn/ver/2090/ios2016/JZBRelease/Tools/%E7%BD%91%E7%BB%9C%E5%88%A4%E6%96%AD/SystemConfiguration.framework/Headers/SCSchemaDefinitions.h
+END
+SCPreferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/jianzhong/!svn/ver/2090/ios2016/JZBRelease/Tools/%E7%BD%91%E7%BB%9C%E5%88%A4%E6%96%AD/SystemConfiguration.framework/Headers/SCPreferences.h
+END
+SCDynamicStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/jianzhong/!svn/ver/2090/ios2016/JZBRelease/Tools/%E7%BD%91%E7%BB%9C%E5%88%A4%E6%96%AD/SystemConfiguration.framework/Headers/SCDynamicStore.h
+END
+SCDynamicStoreCopySpecific.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/jianzhong/!svn/ver/2090/ios2016/JZBRelease/Tools/%E7%BD%91%E7%BB%9C%E5%88%A4%E6%96%AD/SystemConfiguration.framework/Headers/SCDynamicStoreCopySpecific.h
+END

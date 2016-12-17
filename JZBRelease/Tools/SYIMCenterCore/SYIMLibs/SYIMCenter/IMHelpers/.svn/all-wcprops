@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMHelpers
+END
+IMSocketManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMHelpers/IMSocketManager.h
+END
+IMAudioPlayManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMHelpers/IMAudioPlayManager.m
+END
+IMMsgCenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMHelpers/IMMsgCenter.h
+END
+IMSocketManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMHelpers/IMSocketManager.m
+END
+IMPrvAudioPlayManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMHelpers/IMPrvAudioPlayManager.h
+END
+IMMsgQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMHelpers/IMMsgQueue.h
+END
+IMMsgCenter.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMHelpers/IMMsgCenter.m
+END
+IMPrvAudioPlayManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMHelpers/IMPrvAudioPlayManager.m
+END
+IMMsgQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMHelpers/IMMsgQueue.m
+END
+IMAudioPlayManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMHelpers/IMAudioPlayManager.h
+END

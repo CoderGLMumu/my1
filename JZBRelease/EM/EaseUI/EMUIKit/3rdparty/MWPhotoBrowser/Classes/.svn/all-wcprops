@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jianzhong/!svn/ver/1154/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes
+END
+MWGridCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWGridCell.h
+END
+MWPhotoBrowserPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWPhotoBrowserPrivate.h
+END
+MWCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWCommon.h
+END
+MWCaptionView.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWCaptionView.h
+END
+MWPhoto.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWPhoto.h
+END
+MWGridViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWGridViewController.m
+END
+MWGridCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWGridCell.m
+END
+MWZoomingScrollView.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWZoomingScrollView.h
+END
+MWPhotoBrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWPhotoBrowser.h
+END
+MWCaptionView.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWCaptionView.m
+END
+MWPhoto.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWPhoto.m
+END
+MWZoomingScrollView.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWZoomingScrollView.m
+END
+MWPhotoBrowser.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jianzhong/!svn/ver/1154/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWPhotoBrowser.m
+END
+MWTapDetectingView.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWTapDetectingView.h
+END
+MWTapDetectingImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWTapDetectingImageView.h
+END
+MWPhotoProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWPhotoProtocol.h
+END
+MWTapDetectingView.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWTapDetectingView.m
+END
+MWTapDetectingImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWTapDetectingImageView.m
+END
+MWGridViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/MWPhotoBrowser/Classes/MWGridViewController.h
+END

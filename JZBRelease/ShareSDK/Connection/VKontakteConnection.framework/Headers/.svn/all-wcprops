@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/VKontakteConnection.framework/Headers
+END
+SSVKontakteUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/VKontakteConnection.framework/Headers/SSVKontakteUser.h
+END
+SSVKontakteErrorInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/VKontakteConnection.framework/Headers/SSVKontakteErrorInfo.h
+END
+SSVKontaktePost.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/VKontakteConnection.framework/Headers/SSVKontaktePost.h
+END
+SSVKontakteAttachment.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/VKontakteConnection.framework/Headers/SSVKontakteAttachment.h
+END
+ISSVKontakteApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/VKontakteConnection.framework/Headers/ISSVKontakteApp.h
+END
+SSVKontaktePhoto.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/VKontakteConnection.framework/Headers/SSVKontaktePhoto.h
+END
+VKontakteConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/VKontakteConnection.framework/Headers/VKontakteConnection.h
+END
+SSVKontakteCredential.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/VKontakteConnection.framework/Headers/SSVKontakteCredential.h
+END

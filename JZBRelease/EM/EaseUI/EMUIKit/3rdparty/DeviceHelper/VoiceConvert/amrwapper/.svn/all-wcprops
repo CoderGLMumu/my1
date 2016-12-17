@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/VoiceConvert/amrwapper
+END
+amrFileCodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/VoiceConvert/amrwapper/amrFileCodec.h
+END
+wav.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/VoiceConvert/amrwapper/wav.h
+END
+amrFileCodec.mm
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/VoiceConvert/amrwapper/amrFileCodec.mm
+END
+wav.mm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/3rdparty/DeviceHelper/VoiceConvert/amrwapper/wav.mm
+END

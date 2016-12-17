@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMMsgs
+END
+IMMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMMsgs/IMMessage.h
+END
+IMChatRecordMsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMMsgs/IMChatRecordMsg.h
+END
+IMFileMsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMMsgs/IMFileMsg.h
+END
+IMPicMsg.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMMsgs/IMPicMsg.m
+END
+IMAudioMsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMMsgs/IMAudioMsg.h
+END
+IMMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMMsgs/IMMessage.m
+END
+IMTextMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMMsgs/IMTextMessage.h
+END
+IMChatRecordMsg.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMMsgs/IMChatRecordMsg.m
+END
+IMFileMsg.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMMsgs/IMFileMsg.m
+END
+sendmsg.caf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMMsgs/sendmsg.caf
+END
+IMAudioMsg.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMMsgs/IMAudioMsg.m
+END
+IMTextMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMMsgs/IMTextMessage.m
+END
+IMPicMsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/SYIMCenterCore/SYIMLibs/SYIMCenter/IMMsgs/IMPicMsg.h
+END

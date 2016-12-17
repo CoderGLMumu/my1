@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jianzhong/!svn/ver/269/ios2016/JZBRelease/EM/EaseUI/EMUIKit/Views/conversation/MessageCell
+END
+EaseBaseMessageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/Views/conversation/MessageCell/EaseBaseMessageCell.h
+END
+EaseCustomMessageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/Views/conversation/MessageCell/EaseCustomMessageCell.h
+END
+EaseMessageTimeCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/Views/conversation/MessageCell/EaseMessageTimeCell.h
+END
+EaseBaseMessageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/Views/conversation/MessageCell/EaseBaseMessageCell.m
+END
+EaseCustomMessageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/Views/conversation/MessageCell/EaseCustomMessageCell.m
+END
+EaseMessageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/Views/conversation/MessageCell/EaseMessageCell.h
+END
+EaseMessageTimeCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jianzhong/!svn/ver/186/ios2016/JZBRelease/EM/EaseUI/EMUIKit/Views/conversation/MessageCell/EaseMessageTimeCell.m
+END
+EaseMessageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jianzhong/!svn/ver/269/ios2016/JZBRelease/EM/EaseUI/EMUIKit/Views/conversation/MessageCell/EaseMessageCell.m
+END

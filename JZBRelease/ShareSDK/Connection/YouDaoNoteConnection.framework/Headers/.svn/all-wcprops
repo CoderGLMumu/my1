@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/YouDaoNoteConnection.framework/Headers
+END
+ISSYouDaoNoteAuthSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/YouDaoNoteConnection.framework/Headers/ISSYouDaoNoteAuthSession.h
+END
+SSYouDaoNoteUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/YouDaoNoteConnection.framework/Headers/SSYouDaoNoteUser.h
+END
+SSYouDaoNoteUserReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/YouDaoNoteConnection.framework/Headers/SSYouDaoNoteUserReader.h
+END
+SSYouDaoNoteErrorInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/YouDaoNoteConnection.framework/Headers/SSYouDaoNoteErrorInfo.h
+END
+SSYouDaoNoteNote.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/YouDaoNoteConnection.framework/Headers/SSYouDaoNoteNote.h
+END
+SSYouDaoNoteNoteReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/YouDaoNoteConnection.framework/Headers/SSYouDaoNoteNoteReader.h
+END
+ISSYouDaoNoteApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/YouDaoNoteConnection.framework/Headers/ISSYouDaoNoteApp.h
+END
+YouDaoNoteConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/YouDaoNoteConnection.framework/Headers/YouDaoNoteConnection.h
+END
+SSYouDaoNoteCredential.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/YouDaoNoteConnection.framework/Headers/SSYouDaoNoteCredential.h
+END
+SSYouDaoNoteResourceReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/YouDaoNoteConnection.framework/Headers/SSYouDaoNoteResourceReader.h
+END
+SSYouDaoNoteShareContentEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/YouDaoNoteConnection.framework/Headers/SSYouDaoNoteShareContentEntity.h
+END

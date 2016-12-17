@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/LinkedInConnection.framework/Headers
+END
+SSLinkedInErrorInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInErrorInfo.h
+END
+SSLinkedInApiStandardProfileRequestReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInApiStandardProfileRequestReader.h
+END
+SSLinkedInPositionsReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInPositionsReader.h
+END
+SSLinkedInCredential.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInCredential.h
+END
+SSLinkedInUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInUser.h
+END
+SSLinkedInApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInApp.h
+END
+SSLinkedInRelationToViewerReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInRelationToViewerReader.h
+END
+SSLinkedInShareReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInShareReader.h
+END
+SSLinkedInCountryReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInCountryReader.h
+END
+SSLinkedInPositionReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInPositionReader.h
+END
+SSLinkedInCompanyReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInCompanyReader.h
+END
+LinkedInConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/LinkedInConnection.framework/Headers/LinkedInConnection.h
+END
+ISSLinkedInApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/LinkedInConnection.framework/Headers/ISSLinkedInApp.h
+END
+SSLinkedInShareContentEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInShareContentEntity.h
+END
+SSLinkedInLocationReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInLocationReader.h
+END
+SSLinkedInApiStandardProfileRequestHeadersValueReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInApiStandardProfileRequestHeadersValueReader.h
+END
+SSLinkedInUserReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInUserReader.h
+END
+SSLinkedInShare.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInShare.h
+END
+SSLinkedInSiteStandardProfileRequestReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInSiteStandardProfileRequestReader.h
+END
+SSLinkedInApiStandardProfileRequestHeadersReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/jianzhong/!svn/ver/170/ios2016/JZBRelease/ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInApiStandardProfileRequestHeadersReader.h
+END

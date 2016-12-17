@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/pageRecorder/SYIMKit.framework/Headers
+END
+SYIMKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/pageRecorder/SYIMKit.framework/Headers/SYIMKit.h
+END
+SYAmrFileCodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/pageRecorder/SYIMKit.framework/Headers/SYAmrFileCodec.h
+END
+SYIMFaceView.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/pageRecorder/SYIMKit.framework/Headers/SYIMFaceView.h
+END
+SYTalkView.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/pageRecorder/SYIMKit.framework/Headers/SYTalkView.h
+END
+interf_dec.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/pageRecorder/SYIMKit.framework/Headers/interf_dec.h
+END
+SYTalkButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/pageRecorder/SYIMKit.framework/Headers/SYTalkButton.h
+END
+IMAudioPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/pageRecorder/SYIMKit.framework/Headers/IMAudioPlayer.h
+END
+HPTextViewInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/pageRecorder/SYIMKit.framework/Headers/HPTextViewInternal.h
+END
+HPGrowingTextView.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/pageRecorder/SYIMKit.framework/Headers/HPGrowingTextView.h
+END
+SYIMSharedTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/pageRecorder/SYIMKit.framework/Headers/SYIMSharedTool.h
+END
+SYMenuView.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/pageRecorder/SYIMKit.framework/Headers/SYMenuView.h
+END
+interf_enc.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/pageRecorder/SYIMKit.framework/Headers/interf_enc.h
+END
+SYIMNormalDefineHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/pageRecorder/SYIMKit.framework/Headers/SYIMNormalDefineHeader.h
+END
+SYTTTAttributedLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/pageRecorder/SYIMKit.framework/Headers/SYTTTAttributedLabel.h
+END
+SYAmrRecorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/pageRecorder/SYIMKit.framework/Headers/SYAmrRecorder.h
+END
+SYIMTableView.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/pageRecorder/SYIMKit.framework/Headers/SYIMTableView.h
+END
+SYAmr2wavBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/pageRecorder/SYIMKit.framework/Headers/SYAmr2wavBuffer.h
+END
+SYWav2amrBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/pageRecorder/SYIMKit.framework/Headers/SYWav2amrBuffer.h
+END
+SYIMMsgTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/pageRecorder/SYIMKit.framework/Headers/SYIMMsgTool.h
+END
+SYIMInputBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jianzhong/!svn/ver/1809/ios2016/JZBRelease/Tools/pageRecorder/SYIMKit.framework/Headers/SYIMInputBar.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jianzhong/!svn/ver/1862/ios2016/JZBRelease/Tools/SearchVC
+END
+CYLSearchResultViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jianzhong/!svn/ver/1135/ios2016/JZBRelease/Tools/SearchVC/CYLSearchResultViewController.h
+END
+JBKenBurnsView.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jianzhong/!svn/ver/1135/ios2016/JZBRelease/Tools/SearchVC/JBKenBurnsView.h
+END
+CYLSearchResultViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jianzhong/!svn/ver/1135/ios2016/JZBRelease/Tools/SearchVC/CYLSearchResultViewController.m
+END
+UIView+General.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jianzhong/!svn/ver/1135/ios2016/JZBRelease/Tools/SearchVC/UIView+General.h
+END
+CYLSearchBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jianzhong/!svn/ver/1135/ios2016/JZBRelease/Tools/SearchVC/CYLSearchBar.h
+END
+JBKenBurnsView.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jianzhong/!svn/ver/1135/ios2016/JZBRelease/Tools/SearchVC/JBKenBurnsView.m
+END
+CYLSearchResultViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jianzhong/!svn/ver/1135/ios2016/JZBRelease/Tools/SearchVC/CYLSearchResultViewController.xib
+END
+UIView+General.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jianzhong/!svn/ver/1135/ios2016/JZBRelease/Tools/SearchVC/UIView+General.m
+END
+CYLSearchBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jianzhong/!svn/ver/1135/ios2016/JZBRelease/Tools/SearchVC/CYLSearchBar.m
+END

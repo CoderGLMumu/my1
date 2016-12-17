@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jianzhong/!svn/ver/2182/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model
+END
+GetCourseTimeListModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jianzhong/!svn/ver/840/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/GetCourseTimeListModel.h
+END
+SendSerialsModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jianzhong/!svn/ver/800/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/SendSerialsModel.h
+END
+WDRootCellItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jianzhong/!svn/ver/1251/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/WDRootCellItem.h
+END
+CourseTimeModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jianzhong/!svn/ver/1288/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/CourseTimeModel.h
+END
+UserQSItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jianzhong/!svn/ver/1400/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/UserQSItem.h
+END
+GetCourseTimeListModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jianzhong/!svn/ver/686/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/GetCourseTimeListModel.m
+END
+WDRootCellItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jianzhong/!svn/ver/1251/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/WDRootCellItem.m
+END
+SendSerialsModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jianzhong/!svn/ver/665/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/SendSerialsModel.m
+END
+HasBoughtCourseTimeModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jianzhong/!svn/ver/858/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/HasBoughtCourseTimeModel.h
+END
+CourseTimeModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jianzhong/!svn/ver/686/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/CourseTimeModel.m
+END
+UserQSItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jianzhong/!svn/ver/1400/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/UserQSItem.m
+END
+HasBoughtCourseTimeModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jianzhong/!svn/ver/858/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/HasBoughtCourseTimeModel.m
+END
+SendCourseTimeModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jianzhong/!svn/ver/968/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/SendCourseTimeModel.h
+END
+SendApplyTeacherModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jianzhong/!svn/ver/739/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/SendApplyTeacherModel.h
+END
+GetCourseListModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jianzhong/!svn/ver/2182/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/GetCourseListModel.h
+END
+SendCourseTimeModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jianzhong/!svn/ver/686/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/SendCourseTimeModel.m
+END
+CourseModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jianzhong/!svn/ver/686/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/CourseModel.h
+END
+SendApplyTeacherModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jianzhong/!svn/ver/739/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/SendApplyTeacherModel.m
+END
+GetCourseListModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jianzhong/!svn/ver/686/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/GetCourseListModel.m
+END
+jsonBaseItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jianzhong/!svn/ver/1400/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/jsonBaseItem.h
+END
+CourseModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jianzhong/!svn/ver/686/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/CourseModel.m
+END
+jsonBaseItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jianzhong/!svn/ver/1400/ios2016/JZBRelease/%E6%88%91%E7%9A%84/Model/jsonBaseItem.m
+END
